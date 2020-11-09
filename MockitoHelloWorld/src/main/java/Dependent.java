@@ -18,4 +18,8 @@ public class Dependent {
         System.out.println("post processing the data...");
         return data - 10;
     }
+
+    public int dummyProcessing() {
+        return dbConnection.dummy();
+    }
 }
