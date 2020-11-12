@@ -4,7 +4,7 @@ import java.util.concurrent.*;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-public class SimpleFuture {
+public class SimpleFuturePlay {
     public static void run() {
         playWithInvokeAll();
     }
