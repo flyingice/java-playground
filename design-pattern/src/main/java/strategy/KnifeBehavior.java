@@ -1,4 +1,4 @@
-package strategyPattern;
+package strategy;
 
 public class KnifeBehavior implements WeaponBehavior {
     @Override

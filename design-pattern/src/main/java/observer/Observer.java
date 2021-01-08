@@ -1,4 +1,4 @@
-package observerPattern;
+package observer;
 
 public interface Observer {
     // pull model: observer has to fetch the data from the observable by itself

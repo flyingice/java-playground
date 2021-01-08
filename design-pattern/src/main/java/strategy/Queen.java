@@ -1,4 +1,4 @@
-package strategyPattern;
+package strategy;
 
 public class Queen extends Character {
     public Queen() {

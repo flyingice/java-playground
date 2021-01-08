@@ -1,4 +1,4 @@
-package observerPattern;
+package observer;
 
 public class WeatherData extends AbstractObservable {
     public float getTemperature() {

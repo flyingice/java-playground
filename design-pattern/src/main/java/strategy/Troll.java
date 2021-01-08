@@ -1,4 +1,4 @@
-package strategyPattern;
+package strategy;
 
 public class Troll extends Character {
     public Troll() {

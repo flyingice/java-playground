@@ -1,4 +1,4 @@
-package observerPattern;
+package observer;
 
 public class ForecastDisplay implements Observer, DisplayElement {
     public ForecastDisplay(Observable observable) {
